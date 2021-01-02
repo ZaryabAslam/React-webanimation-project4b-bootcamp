@@ -82,7 +82,7 @@ function App() {
       { transform: "translateX(1100px) rotate(-10deg)" },
     ],
     timing: {
-      duration: 35000,
+      duration: 39000,
 
       iterations: Infinity,
     },
